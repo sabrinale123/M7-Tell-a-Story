@@ -72,11 +72,12 @@ anchor_left = 0.64900005
 anchor_top = 0.094000004
 anchor_right = 1.1960001
 anchor_bottom = 1.0450001
-offset_left = -248.08008
-offset_top = 389.47998
-offset_right = -177.32031
-offset_bottom = -360.6001
+offset_left = -190.08008
+offset_top = 379.47998
+offset_right = -622.3203
+offset_bottom = -556.6001
 text = "Hello World!"
+fit_content = true
 
 [node name="Next Button" type="Button" parent="."]
 layout_mode = 1
